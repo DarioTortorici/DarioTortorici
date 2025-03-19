@@ -11,7 +11,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Your%20interview%20-%20Pass%20-%20green?link=https%3A%2F%2Fdariotortorici.github.io%2Fcv%2F)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-tortorici/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dariotortorici2001@gmail.com) ![Resume](https://img.shields.io/badge/Resume%20-%20?logo=readdotcv&link=https%3A%2F%2Fdariotortorici.github.io%2Fcv%2F) ![Blog](https://img.shields.io/badge/Blog%20-%20?logo=blogger&logoColor=%23ffffff&labelColor=%23FF5722&color=%23FF5722&link=https%3A%2F%2Fdariotortorici.github.io%2Fblog%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-tortorici/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dariotortorici2001@gmail.com) [![CV](https://img.shields.io/badge/Resume%20-%20?logo=readdotcv&link=https%3A%2F%2Fdariotortorici.github.io%2Fcv%2F)](https://dariotortorici.github.io/cv/) [![Blog](https://img.shields.io/badge/Blog%20-%20?logo=blogger&logoColor=%23ffffff&labelColor=%23FF5722&color=%23FF5722&link=https%3A%2F%2Fdariotortorici.github.io%2Fblog%2F)](https://dariotortorici.github.io/blog/) 
 
 
 <h3 align="center">Tech used</h3>
@@ -40,7 +40,3 @@
 
 #### Other
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioTortorici&theme=dark&show_icons=true&hide_border=true&count_private=true)
