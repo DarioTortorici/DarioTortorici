@@ -3,8 +3,6 @@
 
 🎓 I'm currently doing a Master's degree in **Artificial Intelligence Systems at the University of Trento**.
 
-👨‍💻 I'm working on my **Master internship** with [BM Group Polytech](https://polytec.bmgroup.com/).
-
 <h3 align="center">Connect with me</h3>
 
 ![Static Badge](https://img.shields.io/badge/Your%20interview%20-%20Pass%20-%20green?link=https%3A%2F%2Fdariotortorici.github.io%2Fcv%2F)
