@@ -7,7 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Your%20interview%20-%20Pass%20-%20green?link=https%3A%2F%2Fdariotortorici.github.io%2Fcv%2F)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-tortorici/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dariotortorici2001@gmail.com) [![CV](https://img.shields.io/badge/Resume%20-%20?logo=readdotcv&link=https%3A%2F%2Fdariotortorici.github.io%2Fcv%2F)](https://dariotortorici.github.io/files/dario-tortorici-cv.pdf) [![Blog](https://img.shields.io/badge/Blog%20-%20?logo=blogger&logoColor=%23ffffff&labelColor=%23FF5722&color=%23FF5722&link=https%3A%2F%2Fdariotortorici.github.io%2Fblog%2F)](https://dariotortorici.github.io/blog/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-tortorici/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dariotortorici2001@gmail.com) [![CV](https://img.shields.io/badge/Resume%20-%20?logo=readdotcv&link=https%3A%2F%2Fdariotortorici.github.io%2Fcv%2F)](https://dariotortorici.github.io/assets/documents/dario-tortorici-cv.pdf) [![Blog](https://img.shields.io/badge/Blog%20-%20?logo=blogger&logoColor=%23ffffff&labelColor=%23FF5722&color=%23FF5722&link=https%3A%2F%2Fdariotortorici.github.io%2Fblog%2F)](https://dariotortorici.github.io/blog/) 
 
 
 <h3 align="center">Tech used</h3>
