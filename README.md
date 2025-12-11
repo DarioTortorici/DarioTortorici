@@ -22,8 +22,8 @@
 ---
 ### Latest projects
 
-[![Rua](https://github-readme-stats.vercel.app/api/pin/?username=DarioTortorici&repo=Rua_personal_assistant&theme=codeSTACKr)](https://github.com/DarioTortorici/Rua_Personal_Assistant)
-[![Cinetech](https://github-readme-stats.vercel.app/api/pin/?username=DarioTortorici&repo=cinetech&theme=codeSTACKr)](https://github.com/DarioTortorici/cinetech)
+[Rua_Personal_Assistant](https://github.com/DarioTortorici/Rua_Personal_Assistant)
+[Cinetech](https://github.com/DarioTortorici/cinetech)
 
 ---
 
